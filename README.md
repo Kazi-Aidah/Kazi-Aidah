@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello, I'm Aidah!
+I enjoy solving problems, helping people, and making things both beautiful and easy to use ✨
 
-<!--
-**Kazi-Aidah/Kazi-Aidah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, I’m focused on developing my Obsidian plugins:
+- [Always Color Text](https://github.com/Kazi-Aidah/always-color-text)
+- [Color Table Cells](https://github.com/Kazi-Aidah/color-table-cells)
+- [Dayble-Calendar](https://github.com/Kazi-Aidah/dayble-calendar)
+- [SideCards](https://github.com/Kazi-Aidah/sidecards)
 
-Here are some ideas to get you started:
+And a few smaller ones:
+- [Emoticon-Picker](https://github.com/Kazi-Aidah/emoticon-picker)
+- [Inline-Countdown-Timer](https://github.com/Kazi-Aidah/inline-countdown-timer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Have a lovely day 💖
