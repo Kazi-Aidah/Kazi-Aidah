@@ -12,4 +12,4 @@ And a few smaller ones:
 - [Inline-Countdown-Timer](https://github.com/Kazi-Aidah/inline-countdown-timer)
 - [**Animated Obsidian Theme**](https://github.com/Kazi-Aidah/blobob)
 
-Have a lovely day 💖
+Have a nice day! 💖
